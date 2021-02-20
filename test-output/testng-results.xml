@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20733" started-at="2021-02-20T05:20:32Z" finished-at="2021-02-20T05:20:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20733" started-at="2021-02-20T05:20:32Z" finished-at="2021-02-20T05:20:53Z">
+      <class name="Erb.Admin.tetscases.TestLoginPage">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:Erb.Admin.tetscases.TestLoginPage@26be92ad]" name="browserlaunch" is-config="true" duration-ms="8159" started-at="2021-02-20T05:20:32Z" finished-at="2021-02-20T05:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Erb.Admin.tetscases.TestLoginPage@26be92ad]" name="login" duration-ms="12535" started-at="2021-02-20T05:20:41Z" finished-at="2021-02-20T05:20:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="printmsg()[pri:0, instance:Erb.Admin.tetscases.TestLoginPage@26be92ad]" name="printmsg" is-config="true" duration-ms="0" started-at="2021-02-20T05:20:53Z" finished-at="2021-02-20T05:20:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printmsg -->
+      </class> <!-- Erb.Admin.tetscases.TestLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
