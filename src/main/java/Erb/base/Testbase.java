@@ -16,7 +16,7 @@ public class Testbase {
 				"C:/Users/THARUN/eclipse-workspace/training programs/Selenium_class/Driver/chromedriver.exe");
 		
 		driver = new ChromeDriver();
-		
+		//url
 		driver.get("http://triotend.com/tts/site/login");
 		
 		driver.manage().window().maximize();
