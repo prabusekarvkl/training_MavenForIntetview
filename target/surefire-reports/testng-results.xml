@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Erb.Admin.tetscases.TestLoginPage" duration-ms="43703" started-at="2021-02-22T06:22:44Z" finished-at="2021-02-22T06:23:28Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="43703" started-at="2021-02-22T06:22:44Z" finished-at="2021-02-22T06:23:28Z">
+      <class name="Erb.Admin.tetscases.TestLoginPage">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:Erb.Admin.tetscases.TestLoginPage@6442b0a6]" name="browserlaunch" is-config="true" duration-ms="11576" started-at="2021-02-22T06:22:44Z" finished-at="2021-02-22T06:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Erb.Admin.tetscases.TestLoginPage@6442b0a6]" name="login" duration-ms="31877" started-at="2021-02-22T06:22:56Z" finished-at="2021-02-22T06:23:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="end()[pri:0, instance:Erb.Admin.tetscases.TestLoginPage@6442b0a6]" name="end" is-config="true" duration-ms="155" started-at="2021-02-22T06:23:27Z" finished-at="2021-02-22T06:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- Erb.Admin.tetscases.TestLoginPage -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Erb.Admin.tetscases.TestLoginPage -->
+</testng-results>

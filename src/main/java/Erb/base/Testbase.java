@@ -16,7 +16,7 @@ public class Testbase {
 				"C:/Users/THARUN/eclipse-workspace/training programs/Selenium_class/Driver/chromedriver.exe");
 		
 		driver = new ChromeDriver();
-		//url
+		//url here (22.02.2021)
 		driver.get("http://triotend.com/tts/site/login");
 		
 		driver.manage().window().maximize();
@@ -26,7 +26,7 @@ public class Testbase {
 
 	}
 
-	public void elementvisible(WebElement e) {
+	public  void elementWait(WebElement e) {
 		WebDriverWait wait = new WebDriverWait(driver, 50);
 		wait.until(ExpectedConditions.visibilityOf(e));
 
