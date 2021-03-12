@@ -14,7 +14,7 @@ public class Testbase {
 	public void startup() {
 		System.setProperty("webdriver.chrome.driver",
 				"C:/Users/THARUN/eclipse-workspace/training programs/Selenium_class/Driver/chromedriver.exe");
-		
+		//Object Creation
 		driver = new ChromeDriver();
 		//url here (22.02.2021)
 		driver.get("http://triotend.com/tts/site/login");
